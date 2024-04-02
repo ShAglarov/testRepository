@@ -16,6 +16,7 @@
 		4BE0F8EA2BBC7F7E00557A80 /* TestProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BE0F8E92BBC7F7E00557A80 /* TestProjectTests.swift */; };
 		4BE0F8F42BBC7F7E00557A80 /* TestProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BE0F8F32BBC7F7E00557A80 /* TestProjectUITests.swift */; };
 		4BE0F8F62BBC7F7E00557A80 /* TestProjectUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BE0F8F52BBC7F7E00557A80 /* TestProjectUITestsLaunchTests.swift */; };
+		4BE0F9032BBC8A6900557A80 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BE0F9022BBC8A6900557A80 /* LoginViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		4BE0F8EF2BBC7F7E00557A80 /* TestProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4BE0F8F32BBC7F7E00557A80 /* TestProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestProjectUITests.swift; sourceTree = "<group>"; };
 		4BE0F8F52BBC7F7E00557A80 /* TestProjectUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestProjectUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		4BE0F9022BBC8A6900557A80 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				4BE0F8D22BBC7F7A00557A80 /* AppDelegate.swift */,
 				4BE0F8D42BBC7F7A00557A80 /* SceneDelegate.swift */,
 				4BE0F8D62BBC7F7A00557A80 /* ViewController.swift */,
+				4BE0F9022BBC8A6900557A80 /* LoginViewController.swift */,
 				4BE0F8DB2BBC7F7D00557A80 /* Assets.xcassets */,
 				4BE0F8DD2BBC7F7D00557A80 /* LaunchScreen.storyboard */,
 				4BE0F8E02BBC7F7D00557A80 /* Info.plist */,
@@ -261,6 +264,7 @@
 				4BE0F8D72BBC7F7A00557A80 /* ViewController.swift in Sources */,
 				4BE0F8D32BBC7F7A00557A80 /* AppDelegate.swift in Sources */,
 				4BE0F8D52BBC7F7A00557A80 /* SceneDelegate.swift in Sources */,
+				4BE0F9032BBC8A6900557A80 /* LoginViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
